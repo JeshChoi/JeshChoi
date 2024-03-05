@@ -2,7 +2,7 @@
 
 I'm an **Undergraduate Student 🎓 [@ UC Irvine 🐜](https://ics.uci.edu/)** majoring in Computer Science.
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
-  - 📊 Machine Learning & Data Science
+  - 📊 Machine Learning & AI
   - 🥞 Fullstack Development
   - 🍎 iOS Development
   - 🤖 Android Development
