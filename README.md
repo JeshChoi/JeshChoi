@@ -6,7 +6,7 @@ I'm an **Undergraduate Student 🎓 [@ UC Irvine 🐜](https://ics.uci.edu/)** m
   - 🥞 Fullstack Development
   - 🍎 iOS Development
   - 🤖 Android Development
-- 📙 Check out my [Resume](https://drive.google.com/file/d/1OeNknAxyaX915KQ0mqPG9jlnwdvjUZPy/view?usp=sharing)
+- 📙 Check out my [Resume](https://drive.google.com/file/d/1TZg2H14Doyey3-mNrcg6mKhCtQ4jyw3N/view?usp=sharing)
 - 🎉 Fun-Fact: I ❤️ Dogs that side-eye
 
 ### 📬 Find me at
